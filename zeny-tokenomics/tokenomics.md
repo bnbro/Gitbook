@@ -10,10 +10,11 @@
 
 The total supply of **BNBRagnarok ($ZENY)** tokens is 100,000,000. The Initial Supply at the start is 325,000. The allocation of the token was determined by brainstorming and ideas for an effective ecosystem. It can be subject to change based on future governance decisions and situations.
 
-| Allocation             | Token Amount    | Percent % | Release Schedule                | Link Lock      |
-| ---------------------- | --------------- | --------- | ------------------------------- | -------------- |
-| Play to Earn & Staking | 32,500          | 10%       | 2% TGE, linearly over 24 months |                |
-| Private Sale           | 16,250          | 5%        | TGE 100%                        |                |
-| Presale + Liquidity    | 276,250         | 85%       | TGE 100%                        | LP lock 5Years |
-| **Total**              | **100,000,000** |           |                                 |                |
+| Allocation             | Token Amount | Percent % | Release Schedule                | Link Lock      |
+| ---------------------- | ------------ | --------- | ------------------------------- | -------------- |
+| Play to Earn & Staking | 32,500       | 10%       | 2% TGE, linearly over 24 months |                |
+| Private Sale           | 16,250       | 5%        | TGE 100%                        |                |
+| Presale + Liquidity    | 276,250      | 80%       | TGE 100%                        | LP lock 5Years |
+| Burn                   | 6,250        | 5%        | TGE 100%                        |                |
+| **Total**              | **325,000**  | 100%      |                                 |                |
 
