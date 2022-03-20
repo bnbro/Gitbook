@@ -8,15 +8,12 @@
 
 ## Token Allocations
 
-The total supply of **BNBRagnarok ($ZENY)** tokens is 100,000,000. The allocation of the token was determined by brainstorming and ideas for an effective ecosystem. It can be subject to change based on future governance decisions and situations.
+The total supply of **BNBRagnarok ($ZENY)** tokens is 100,000,000. The Initial Supply at the start is 325,000. The allocation of the token was determined by brainstorming and ideas for an effective ecosystem. It can be subject to change based on future governance decisions and situations.
 
-| Allocation              | Token Amount    | Release Schedule                 | Link Lock |
-| ----------------------- | --------------- | -------------------------------- | --------- |
-| Play to Earn & Staking  | 25,000,000      | 2% TGE, linearly over 24 months  |           |
-| Marketing & Development | 5,000,000       | 5% TGE, linearly over 24 months  |           |
-| Advisor and Partner     | 4,704,000       | 10% TGE, linearly over 24 months |           |
-| Private Sale            | 5,000,000       | TGE 100%                         |           |
-| Presale                 | 35,600,000      | TGE 100%                         |           |
-| DEX Liquidity           | 24,696,000      | TGE 100% to Liquidity Pool       |           |
-| **Total**               | **100,000,000** |                                  |           |
+| Allocation             | Token Amount    | Percent % | Release Schedule                | Link Lock      |
+| ---------------------- | --------------- | --------- | ------------------------------- | -------------- |
+| Play to Earn & Staking | 32,500          | 10%       | 2% TGE, linearly over 24 months |                |
+| Private Sale           | 16,250          | 5%        | TGE 100%                        |                |
+| Presale + Liquidity    | 276,250         | 85%       | TGE 100%                        | LP lock 5Years |
+| **Total**              | **100,000,000** |           |                                 |                |
 
