@@ -2,6 +2,7 @@
 
 * [🏹 Introduction](README.md)
 * [🔢 Get Started](get-started.md)
+* [🪙 ZENY Overview](zeny-overview.md)
 * [🔗 Referral Program](referral-program.md)
 
 ## ZENY TOKENOMICS
