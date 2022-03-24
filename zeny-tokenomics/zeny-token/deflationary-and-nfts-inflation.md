@@ -9,7 +9,7 @@ description: >-
 
 ### **NFT Limited**
 
-The quantity of Character is Limited. Players can buy only a maximum of 2 characters, if **** they want **** to buy more than 2 characters, players would need to increase their [Vip Level](../bnbragnarok-guide/recruit-hero-nft/vip-system-upgrade.md#benefits-received-of-each-vip-level).
+The quantity of Character is Limited. Players can buy only a maximum of 2 characters, if **** they want **** to buy more than 2 characters, players would need to increase their [Vip Level](../../bnbragnarok-guide/recruit-hero-nft/vip-system-upgrade.md#benefits-received-of-each-vip-level).
 
 ****
 
@@ -35,17 +35,7 @@ Players are taxed 40% if they claim their $ZENY on the first day. The claimed ta
 * **5%** will be sent to Referral
 * **65%** will be allocated to the Reward Pool
 
-### TAX TOKENOMICS
-
-| Token Tax Buy & Sell               | In %    |
-| ---------------------------------- | ------- |
-| Reflection to Reward Pool/Treasury | 10%     |
-| Liquidity Pool                     | 2%      |
-| **Total Tax**                      | **12%** |
-
-{% hint style="info" %}
-Transfer is 0% Tax
-{% endhint %}
+[TAX TOKENOMICS VIEW HERE](buy-and-sell-fees.md)
 
 ****
 

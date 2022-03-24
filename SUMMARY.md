@@ -7,8 +7,10 @@
 ## ZENY TOKENOMICS
 
 * [🐋 Presale ( Coming Soon )](zeny-tokenomics/presale-coming-soon.md)
-* [💰 Tokenomics](zeny-tokenomics/tokenomics.md)
-* [🔥 Deflationary & NFT's Inflation](zeny-tokenomics/deflationary-and-nfts-inflation.md)
+* [🪙 ZENY Token](zeny-tokenomics/zeny-token/README.md)
+  * [💰 Tokenomics](zeny-tokenomics/zeny-token/tokenomics.md)
+  * [🔥 Deflationary & NFT's Inflation](zeny-tokenomics/zeny-token/deflationary-and-nfts-inflation.md)
+  * [🧷 Buy and Sell Fees](zeny-tokenomics/zeny-token/buy-and-sell-fees.md)
 * [🛡 Rug-Pull Prevention](zeny-tokenomics/rug-pull-prevention.md)
 * [🗺 Roadmap](zeny-tokenomics/roadmap.md)
 
