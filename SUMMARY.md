@@ -2,7 +2,8 @@
 
 * [🏹 Introduction](README.md)
 * [🔢 Get Started](get-started.md)
-* [🪙 ZENY Overview](zeny-overview.md)
+* [🪙 ZENY Overview](zeny-overview/README.md)
+  * [➡ What is a Rebase Token?](zeny-overview/what-is-a-rebase-token.md)
 * [🔗 Referral Program](referral-program.md)
 
 ## ZENY TOKENOMICS
