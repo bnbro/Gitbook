@@ -1,4 +1,4 @@
-# How to Withdraw Zeny
+# 💵 How to Withdraw Zeny
 
 For the first day, fees 40% will be taxed and will decrease by 2% on the next following day of withdrawal. Click on Withdraw and confirm the transactions.
 
