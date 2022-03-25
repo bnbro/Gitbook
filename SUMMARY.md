@@ -1,7 +1,7 @@
 # Table of contents
 
-* [How To ( TESTNET BSC )](README.md)
-  * [How to Play ( TESTNET BSC )](how-to-testnet-bsc/how-to-play-testnet-bsc.md)
+* [❓ How To ( TESTNET BSC )](README.md)
+  * [❓ How to Play ( TESTNET BSC )](how-to-testnet-bsc/how-to-play-testnet-bsc.md)
 * [🏹 Introduction](<README (1).md>)
 * [🔢 Get Started](get-started.md)
 * [🪙 ZENY Overview](zeny-overview/README.md)

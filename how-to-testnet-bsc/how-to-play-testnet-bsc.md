@@ -1,2 +1,2 @@
-# How to Play ( TESTNET BSC )
+# ❓ How to Play ( TESTNET BSC )
 

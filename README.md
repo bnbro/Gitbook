@@ -1,4 +1,4 @@
-# How To ( TESTNET BSC )
+# ❓ How To ( TESTNET BSC )
 
 1. Assuming you already have your metamask account, so go to your Metamask account Settings > Network > Add Network
 2.  Fill in the testnet details as below and save it.
