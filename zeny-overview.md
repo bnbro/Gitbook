@@ -12,7 +12,7 @@ The Auto-Stake feature is a simple yet cutting-edge function called **Buy-Hold-E
 
 Using a Positive Rebase formula, BNBRagnarok $ZENY makes it possible for token distribution to be paid directly proportional to the epoch rebase rewards, worth <mark style="color:green;"></mark> 0.02355% every 15 minute epoch period of the total amount of $ZENY tokens held in your wallet. The rebase rewards are distributed on each EPOCH (15 minute rebase period) to all $ZENY holders.&#x20;
 
-**This means that without moving their tokens from their wallet, BNBRagnarok holders receive an annual compound interest of **<mark style="color:green;">**383,025.80%**</mark>** for Year 1.**&#x20;
+**This means that without moving their tokens from their wallet, BNBRagnarok holders receive an annual compound interest of **<mark style="color:green;">**398,295.00%**</mark>** for Year 1.**&#x20;
 
 * <mark style="color:green;">**Passive Income in BUSD**</mark> - 3% of all trading fees are stored in the Dividend BUSD Contract which distributes to the holder based on token holding.&#x20;
 * <mark style="color:green;">**Easy and Safe Staking**</mark>** -**  The BNBRagnarok $ZENY token always stays in your wallet so it doesn’t need to be put into the hands of a 3rd party or centralized authority. All you need to do is buy & hold as you automatically receive rewards in your own wallet so there’s no more complicated staking processes at all.&#x20;
