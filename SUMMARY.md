@@ -1,7 +1,11 @@
 # Table of contents
 
 * [❓ How To ( TESTNET BSC )](README.md)
-  * [❓ How to Play ( TESTNET BSC )](how-to-testnet-bsc/how-to-play-testnet-bsc.md)
+  * [🦸♂ How to Mint Hero](how-to-testnet-bsc/how-to-mint-hero.md)
+  * [🔄 How to Warp Portal](how-to-testnet-bsc/how-to-warp-portal.md)
+  * [👾 How to Fight Monster](how-to-testnet-bsc/how-to-fight-monster.md)
+  * [How to Withdraw Zeny](how-to-testnet-bsc/how-to-withdraw-zeny.md)
+  * [🐬 How to Upgrade VIP](how-to-testnet-bsc/how-to-upgrade-vip.md)
 * [🏹 Introduction](<README (1).md>)
 * [🔢 Get Started](get-started.md)
 * [🪙 ZENY Overview](zeny-overview/README.md)
