@@ -10,6 +10,9 @@
 * [🔢 Get Started](get-started.md)
 * [🪙 ZENY Overview](zeny-overview/README.md)
   * [➡ What is a Rebase Token?](zeny-overview/what-is-a-rebase-token.md)
+  * [➡ Longterm Rebase Interest Cycle](zeny-overview/longterm-rebase-interest-cycle.md)
+  * [➡ How the APY is Calculated](zeny-overview/how-the-apy-is-calculated.md)
+  * [🔥 The Fire Pit ( Burn )](zeny-overview/the-fire-pit-burn.md)
 * [🔗 Referral Program](referral-program.md)
 
 ## ZENY TOKENOMICS
