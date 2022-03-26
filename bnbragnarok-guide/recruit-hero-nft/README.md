@@ -2,7 +2,7 @@
 
 **Total Hero can be Mint**: 50,000 BNBRagnarok NFT
 
-**Cost in BNB**: 0.2 BNB or XXX **ZENY** ( Oracle )
+**Cost in BNB**: 0.3 BNB or XXX **ZENY** ( Oracle )
 
 {% hint style="danger" %}
 Drop rate will be adjusted according to BETA test
