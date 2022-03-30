@@ -20,9 +20,9 @@ Rewards will be adjusted
 
 #### **Min Level**: 1
 
-#### **Required HP**: 100
+#### **Required HP**: 200
 
-#### **Exp Gain: 100**
+#### **Exp Gain: 200**
 
 #### **Chance**: 61%
 
@@ -32,9 +32,9 @@ Rewards will be adjusted
 
 #### **Min Level**: 1
 
-#### **Required HP**: 100
+#### **Required HP**: 200
 
-#### **Exp Gain: 110**
+#### **Exp Gain: 210**
 
 #### **Chance**: 57%
 
@@ -44,9 +44,9 @@ Rewards will be adjusted
 
 #### **Min Level**: 1
 
-#### **Required HP**: 100
+#### **Required HP**: 200
 
-#### **Exp Gain: 120**
+#### **Exp Gain: 220**
 
 #### **Chance**: 53%
 
@@ -58,13 +58,13 @@ Rewards will be adjusted
 
 #### **Min Level**: 2
 
-#### **Required HP**: 100
+#### **Required HP**: 200
 
 #### **Exp Gain: 200**
 
 #### **Chance**: 51%
 
-#### Rewards : 0.005BNB + 0.0005BNB in ZENY
+#### Rewards : 0.007BNB + 0.0005BNB in ZENY
 
 ### &#x20;<mark style="color:orange;">**Monster**</mark><mark style="color:orange;">:</mark> <mark style="color:green;"></mark> <mark style="color:orange;">Deniro</mark>
 
@@ -76,7 +76,7 @@ Rewards will be adjusted
 
 #### **Chance**: 57%
 
-#### Rewards : 0.0055BNB + 0.0005BNB in ZENY
+#### Rewards : 0.0075BNB + 0.0005BNB in ZENY
 
 ### &#x20;<mark style="color:orange;">**Monster**</mark><mark style="color:orange;">:</mark> <mark style="color:green;"></mark> <mark style="color:orange;">Maya Purple</mark>
 
@@ -88,7 +88,7 @@ Rewards will be adjusted
 
 #### **Chance**: 41%
 
-#### Rewards : 0.006BNB + 0.0005BNB in ZENY
+#### Rewards : 0.008BNB + 0.0005BNB in ZENY
 {% endtab %}
 
 {% tab title="MVP Map ( Weekly Changed )" %}
