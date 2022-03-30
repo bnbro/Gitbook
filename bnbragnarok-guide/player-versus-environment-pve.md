@@ -4,12 +4,6 @@
 
 Players can join by clicking "Fight" to play. Players exploit their knowledge to arrange formations and defeat enemies.
 
-{% hint style="info" %}
-_Percentage Winning_ will _increase_ the chance by a _percentage_ of the _total stat_.
-
-**Attack, Armor, and Crit.**
-{% endhint %}
-
 {% hint style="danger" %}
 Rewards will be adjusted
 {% endhint %}
