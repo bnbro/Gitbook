@@ -2,7 +2,7 @@
 
 BNBRagnarok is coming to you soon! BNBRO is an ever-evolving environment made for you to explore its expansive world.
 
-Explore the game and its lore, fight monsters, challenge others in PVP arena, battle stronger monsters in our weekly MVP maps, whilst earning yourself some awesome BNB and ZENY!
+Explore the game and its lore, fight monsters, challenge others in the PVP arena, battle stronger monsters in our weekly MVP maps whilst earning yourself some fantastic BNB and ZENY!
 
 {% tabs %}
 {% tab title="First Class" %}

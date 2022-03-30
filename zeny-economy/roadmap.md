@@ -16,7 +16,7 @@
 * [x] Develop Character Marketplace
 * [x] Apply Audit with Solidproof
 * [x] Apply KYC with PinkSale&#x20;
-* [ ] Looking for Incubator & Partnership
+* [x] Looking for Incubator & Partnership
 
 ## Q1 : 2022 / Mac
 
