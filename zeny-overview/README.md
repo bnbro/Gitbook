@@ -2,7 +2,7 @@
 description: Auto Staking feature
 ---
 
-# 🪙 ZENY Overview
+# 🪙 398,295% APY
 
 ## How Does Auto-Staking Work?
 
