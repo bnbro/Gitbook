@@ -16,7 +16,7 @@ Rewards will be adjusted
 
 #### **Required HP**: 200
 
-#### **Exp Gain: 200**
+#### **Exp Gain: 100**
 
 #### **Chance**: 61%
 
@@ -28,7 +28,7 @@ Rewards will be adjusted
 
 #### **Required HP**: 200
 
-#### **Exp Gain: 210**
+#### **Exp Gain: 110**
 
 #### **Chance**: 57%
 
@@ -40,7 +40,7 @@ Rewards will be adjusted
 
 #### **Required HP**: 200
 
-#### **Exp Gain: 220**
+#### **Exp Gain: 150**
 
 #### **Chance**: 53%
 
