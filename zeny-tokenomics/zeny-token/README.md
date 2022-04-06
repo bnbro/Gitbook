@@ -4,4 +4,4 @@ $ZENY is a BEP-20 token that rewards its holders with automatic passive interest
 
 
 
-**ZENY Smart Contract** :&#x20;
+**ZENY Smart Contract** : [0x922273d2B0aFc97713B9289Bc21435b90Cb0c380](https://bscscan.com/token/0x922273d2B0aFc97713B9289Bc21435b90Cb0c380)

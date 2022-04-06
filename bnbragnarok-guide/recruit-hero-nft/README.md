@@ -30,7 +30,7 @@ To do this,&#x20;
 
 \--> go to the game and select the "**Mint**" section&#x20;
 
-\--> click "**Mint with XXX BNBR**"&#x20;
+\--> click "**Mint with XXX ZENY**"&#x20;
 
 \--> confirm the cost of mint,&#x20;
 

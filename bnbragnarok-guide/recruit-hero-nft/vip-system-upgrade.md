@@ -6,15 +6,23 @@ The higher the VIP level, the more benefits it will bring to the player, especia
 
 Level 1: 0.175 BNB : XX **ZENY** ( Oracle )
 
-Level 2: 0.175 BNB : XX **ZENY** ( Oracle )
+Level 2: 0.275 BNB : XX **ZENY** ( Oracle )
 
-Level 3: 0.225 BNB : XX **ZENY** ( Oracle )
+Level 3: 0.425 BNB : XX **ZENY** ( Oracle )
 
-Level 4: 0.450 BNB : XX **ZENY** ( Oracle )
+Level 4: 0.650 BNB : XX **ZENY** ( Oracle )
 
-Level 5: 0.450 BNB : XX **ZENY** ( Oracle )
+Level 5: 0.850 BNB : XX **ZENY** ( Oracle )
 
+### Rarity Table
 
+| Rarity    | Rarity Level |
+| --------- | ------------ |
+| Common    | 1            |
+| Uncommon  | 2            |
+| Rare      | 3            |
+| Epic      | 4            |
+| Legendary | 5            |
 
 ### The Benefits of Each VIP Level
 

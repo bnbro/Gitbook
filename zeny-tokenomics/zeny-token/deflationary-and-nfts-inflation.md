@@ -25,7 +25,7 @@ _NFT's Inflation and long-term sustainability_
 
 ### REWARD POOL SUSTAINABILITY
 
-Players are taxed 40% if they claim their $ZENY on the first day. The claimed tax is reduced by 2% every day, 0% tax is on the 20th day, this assures less fluctuation of $ZENY and a more sustainable system.
+Players are taxed 70% if they claim their $ZENY on the first day. The claimed tax is reduced by 10% every day, 0% tax is on the 7th day, this assures less fluctuation of $ZENY and a more sustainable system.
 
 ### IN-GAME TAXATION TOKENOMICS
 

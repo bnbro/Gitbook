@@ -20,7 +20,7 @@ Rewards will be adjusted
 
 #### **Chance**: 61%
 
-#### Rewards : 0.0025BNB + 0.0005BNB in ZENY
+#### Rewards : 0.0025BNB + 0.0025BNB in ZENY
 
 ### &#x20;<mark style="color:green;">**Monster**</mark><mark style="color:green;">: Poporing</mark>
 
@@ -32,7 +32,7 @@ Rewards will be adjusted
 
 #### **Chance**: 57%
 
-#### Rewards : 0.0030BNB + 0.0005BNB in ZENY
+#### Rewards : 0.0030BNB + 0.0030BNB in ZENY
 
 ### &#x20;<mark style="color:green;">**Monster**</mark><mark style="color:green;">: King Poring</mark>
 
@@ -44,7 +44,7 @@ Rewards will be adjusted
 
 #### **Chance**: 53%
 
-#### Rewards : 0.0035BNB + 0.0005BNB in ZENY
+#### Rewards : 0.0035BNB + 0.0035BNB in ZENY
 {% endtab %}
 
 {% tab title="Map 2: Morroc Field" %}
@@ -58,7 +58,7 @@ Rewards will be adjusted
 
 #### **Chance**: 51%
 
-#### Rewards : 0.007BNB + 0.0005BNB in ZENY
+#### Rewards : 0.007BNB + 0.007BNB in ZENY
 
 ### &#x20;<mark style="color:orange;">**Monster**</mark><mark style="color:orange;">:</mark> <mark style="color:green;"></mark> <mark style="color:orange;">Deniro</mark>
 
@@ -70,7 +70,7 @@ Rewards will be adjusted
 
 #### **Chance**: 57%
 
-#### Rewards : 0.0075BNB + 0.0005BNB in ZENY
+#### Rewards : 0.0075BNB + 0.0075BNB in ZENY
 
 ### &#x20;<mark style="color:orange;">**Monster**</mark><mark style="color:orange;">:</mark> <mark style="color:green;"></mark> <mark style="color:orange;">Maya Purple</mark>
 
@@ -82,7 +82,7 @@ Rewards will be adjusted
 
 #### **Chance**: 41%
 
-#### Rewards : 0.008BNB + 0.0005BNB in ZENY
+#### Rewards : 0.008BNB + 0.008BNB in ZENY
 {% endtab %}
 
 {% tab title="MVP Map ( Weekly Changed )" %}

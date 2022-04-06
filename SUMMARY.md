@@ -18,7 +18,7 @@
 
 ## ZENY ECONOMY
 
-* [🐋 Presale ( Coming Soon )](zeny-tokenomics/presale-coming-soon.md)
+* [🐋 Presale](zeny-economy/presale.md)
 * [🪙 ZENY Token](zeny-tokenomics/zeny-token/README.md)
   * [💰 Tokenomics](zeny-tokenomics/zeny-token/tokenomics.md)
   * [🔥 Deflationary & NFT's Inflation](zeny-tokenomics/zeny-token/deflationary-and-nfts-inflation.md)

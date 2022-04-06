@@ -20,8 +20,8 @@
 
 ## Q1 : 2022 / Mac
 
-* [ ] Presale On Pinksale (Audit & KYC)&#x20;
-* [ ] Listing on PancakeSwap&#x20;
+* [x] Presale On Pinksale (Audit & KYC)&#x20;
+* [x] Listing on PancakeSwap&#x20;
 * [ ] Listing on CoinGecko & CoinMarketCap&#x20;
 * [ ] Order Certik Audit&#x20;
 * [ ] Release Additional NFT’S Feature
